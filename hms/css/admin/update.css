@@ -1,0 +1,27 @@
+.content {
+    position: relative;
+}
+
+
+.popup {
+    height: 100%;
+    width: 100%;
+    /* display: none; */
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.window {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    padding: 2.5rem 10rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.form-control{
+    margin-bottom: 1rem;
+}
